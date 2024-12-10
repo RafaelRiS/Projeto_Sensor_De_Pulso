@@ -49,7 +49,7 @@ Este projeto utiliza um sensor de pulso para monitorar a frequência cardíaca d
 
 ## Funcionamento
 
-1. **Início**: Quando o projeto é ligado, o LCD exibe "Monitor BPM". O sensor de pulso começa a medir os batimentos cardíacos e envia essas informações para o Arduino.
+1. **Início**: Quando o circuito é ligado, o LCD exibe "Monitor BPM". O sensor de pulso começa a medir os batimentos cardíacos e envia essas informações para o Arduino.
 2. **Detecção de Batimento**: Quando o sensor detecta um batimento, o LED no pino 12 acende e o BPM é calculado e exibido no LCD.
 3. **Atraso entre batimentos**: O sistema utiliza um pequeno atraso para evitar leituras excessivas, e a média dos BPMs é calculada para uma medição mais estável.
 4. **Aguardando Pulso**: Quando não há um batimento detectado por um certo tempo, o LCD exibe a mensagem "Aguardando Pulso...", e o LED no pino 12 é apagado.
