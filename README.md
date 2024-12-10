@@ -4,8 +4,8 @@ Este projeto utiliza um sensor de pulso para monitorar a frequência cardíaca d
 
 ## Imagens
 
-<img src="Imagens/BPM.jpg" alt="Aferimento" width="1024" height="600">
-<img src="Imagens/Gráfico.png" alt="Visualização Gráfica" width="1024" height="600">
+<img src="Imagens/BPM.jpg" alt="Aferimento" width="1024" height="1024">
+<img src="Imagens/Gráfico.png" alt="Visualização Gráfica" width="1024" height="1024">
 
 ## Componentes Necessários
 
