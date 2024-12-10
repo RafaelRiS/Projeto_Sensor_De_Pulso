@@ -2,6 +2,13 @@
 
 Este projeto utiliza um sensor de pulso para monitorar a frequência cardíaca de uma pessoa e exibir o resultado em tempo real em um display LCD. O projeto também acende LEDs para indicar a detecção de batimentos e utiliza um filtro de média móvel para suavizar os valores de BPM (batimentos por minuto) exibidos no LCD.
 
+## Imagens
+
+![Aguardando_Pulso](Imagens/Aguardando_Pulso.jpg)
+![Aferimento](Imagens/BPM.jpg)
+![Gráfico](Imagens/Gráfico.png)Gráfico
+
+
 ## Componentes Necessários
 
 - **Arduino (Uno, Nano ou similar)**
